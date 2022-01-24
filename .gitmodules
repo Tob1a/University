@@ -1,3 +1,9 @@
 [submodule "algorithm"]
 	path = algorithm
 	url = https://github.com/Tob1a/algorithm
+[submodule "Statistics"]
+	path = Statistics
+	url = https://github.com/Tob1a/Statistics
+[submodule "Programming_and_laboratory_languages"]
+	path = Programming_and_laboratory_languages
+	url = https://github.com/Tob1a/Programming_and_laboratory_languages.git
